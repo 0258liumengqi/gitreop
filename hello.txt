@@ -2,5 +2,7 @@ hello git hello 12315
 hello git hello 98746 
 hello git hello 
 hello git hello 
+<<<<<<< HEAD
 hello git hello  master test
-hello git hello 
+hello git hello hot-fix  
+
